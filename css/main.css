@@ -165,7 +165,7 @@ header .container nav .form i {
 .landing { 
   min-height: 100vh;
   background-color: var(--second-color);
-  background-image: url(/imgs/landing.jpg);
+  background-image: url(../imgs/landing.jpg);
   background-size: cover;
   position: relative;
 }
